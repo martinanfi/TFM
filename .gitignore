@@ -1,0 +1,8 @@
+# Environment, caches, and OS junk (not project files)
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+# Experiment run outputs — kept locally at ../experiment_data_local, out of the repo
+/experiment_data
